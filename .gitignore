@@ -1,0 +1,15 @@
+# Unity3D specific ignores
+[Oo]bj/
+[Ll]ibrary/
+[Tt]emp/
+[Tt]argets/
+.vs/
+.idea/
+.vscode/
+*.user
+*.userprefs
+*.suo
+*.pidb
+*.svd
+*.suo
+*.tmp
